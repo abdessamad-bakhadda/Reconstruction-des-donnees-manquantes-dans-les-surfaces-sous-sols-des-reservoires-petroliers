@@ -9,6 +9,8 @@
 * le fichier Présentation est une présentation PowerPoint du projet et des résultats
 
 
+![image](https://user-images.githubusercontent.com/61042712/161515227-30a5dbad-a253-43f5-8089-208bba50c9c0.png)
+
 ![image](https://user-images.githubusercontent.com/61042712/161514206-f6f87791-5df8-49eb-aa60-1fee2fb3a528.png)
 
 ![image](https://user-images.githubusercontent.com/61042712/161514325-f1ad926f-4895-4564-b889-5406e796975b.png)
