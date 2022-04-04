@@ -1,6 +1,6 @@
 # Reconstruction des données manquantes dans les surfaces sous-sols des réservoires pétroliers
 
-Le dossier Code commenté contirnt le code avec les commentaires 
+Le dossier Code commenté contient le code avec les commentaires 
 
 le fichier Rapport est un rapport détaillé du projet et des résultats
 
