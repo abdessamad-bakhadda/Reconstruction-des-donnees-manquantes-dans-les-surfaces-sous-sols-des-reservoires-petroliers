@@ -52,7 +52,7 @@ On représente la surface correspondante à chaque horizon i ( f(X) = ci )
 
 ![Diagram
 
-Description automatically generated](Aspose.Words.c92e6792-b3c5-43c5-9b43-9794e4cd36dc.001.png)
+Description automatically generated](./Aspose.Words.c92e6792-b3c5-43c5-9b43-9794e4cd36dc.001.png)
 
 `				`Figure 1 : Schéma général
 
