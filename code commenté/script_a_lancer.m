@@ -1,16 +1,16 @@
 clear
 clf
 hold on
-mypath1 = 'donnees_m_et_xyz/brent_dulin/Brent_Dulin_2/' ; 
+mypath1 = 'Donnees/brent_dulin/Brent_Dulin_2/' ; 
 liste1 = {'Simplified_2000_Top_Brent.m', 'Simplified_2000_Top_Dulin.m'} ;% 'Simplified_2000_Top_Brent.m', 'Simplified_2000_Top_Dulin.m'} ;
 
-%mypath2 = 'donnees_m_et_xyz/synthetic_bac/' ;
+%mypath2 = 'Donnees/synthetic_bac/' ;
 %liste2 = {'sub1_low.m', 'sub1_mid.m', 'sub1_top.m'} ;
 
-mypath3 = 'donnees_m_et_xyz/Geosiris_mai/VOLVE_Segmentation/' ;
+mypath3 = 'Donnees/Geosiris_mai/VOLVE_Segmentation/' ;
 liste3 = {'Horizon_1.m', 'Horizon_2.m', 'Horizon_3.m', 'Horizon_4.m'} ;
 
-mypath4 = 'donnees_m_et_xyz/Geosiris_mai/THURROCK_xyz/Matlab' ;
+mypath4 = 'Donnees/Geosiris_mai/THURROCK_xyz/Matlab' ;
 %liste4 = {'toit_TAB.m', 'toit_CK.m', 'toit_HEAD.m', 'toit_HWH.m', 'toit_LC.m', 'toit_LMBE.m', 'toit_MGR.m', 'toit_QHND.m', 'toit_QXQD.m', 'toit_RDTU.m'} ;
 liste4 = {'toit_TAB.m', 'toit_LMBE.m', 'toit_HWH.m',  'toit_QXQD.m'} ;
 %liste4 = {'toit_TAB.m', 'toit_LMBE.m'} ;
